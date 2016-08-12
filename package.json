@@ -1,16 +1,18 @@
 {
-  "name": "test1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "dependencies": {
-    "typings": "^1.3.2",
-    "typescript": "^1.8.10"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "test1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "bin": {
+    },
+    "dependencies": {
+	"typings": "^1.3.2",
+	"typescript": "^1.8.10"
+    },
+    "devDependencies": {},
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
 }

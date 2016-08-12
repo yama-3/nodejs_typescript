@@ -1,2 +1,3 @@
-export PATH=`pwd`/node_modules/.bin/:$PATH
+local_bin=`pwd`/node_modules/.bin/
+export PATH=$local_bin:$PATH
 
